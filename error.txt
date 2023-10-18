@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/info/etu/m1/s2203093/IA_Infrastructure/TP4.ipynb", line 348, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
