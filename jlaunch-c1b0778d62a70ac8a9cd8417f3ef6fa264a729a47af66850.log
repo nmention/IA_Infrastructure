@@ -1,0 +1,26 @@
+[W 19:00:38.620 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 2023-10-19 19:00:38.941 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-10-19 19:00:38.941 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-10-19 19:00:38.947 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.9/dist-packages/jupyterlab
+[I 2023-10-19 19:00:38.947 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 19:00:38.950 NotebookApp] The port 8888 is already in use, trying another port.
+[I 19:00:38.951 NotebookApp] The port 8889 is already in use, trying another port.
+[I 19:00:38.951 NotebookApp] Serving notebooks from local directory: /info/etu/m1/s2203093/IA_Infrastructure
+[I 19:00:38.951 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 19:00:38.951 NotebookApp] http://gpue7:8890/?token=c1b0778d62a70ac8a9cd8417f3ef6fa264a729a47af66850
+[I 19:00:38.951 NotebookApp]  or http://127.0.0.1:8890/?token=c1b0778d62a70ac8a9cd8417f3ef6fa264a729a47af66850
+[I 19:00:38.951 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:00:38.956 NotebookApp] No web browser found: could not locate runnable browser.
+[C 19:00:38.957 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///info/etu/m1/s2203093/.local/share/jupyter/runtime/nbserver-1790383-open.html
+    Or copy and paste one of these URLs:
+        http://gpue7:8890/?token=c1b0778d62a70ac8a9cd8417f3ef6fa264a729a47af66850
+     or http://127.0.0.1:8890/?token=c1b0778d62a70ac8a9cd8417f3ef6fa264a729a47af66850
+[I 19:00:47.675 NotebookApp] 302 GET /?token=c1b0778d62a70ac8a9cd8417f3ef6fa264a729a47af66850 (192.168.100.249) 1.090000ms
+[W 19:00:53.700 NotebookApp] Notebook mnist_pytorch.ipynb is not trusted
+[I 19:00:54.284 NotebookApp] Kernel started: acb40a5b-484e-402b-b059-b6d3a6432ca8, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e43be95f-402f-410b-9160-d7d2cfe0f6fb
+[I 19:01:17.813 NotebookApp] 302 GET /?token=c1b0778d62a70ac8a9cd8417f3ef6fa264a729a47af66850 (192.168.100.249) 0.850000ms
